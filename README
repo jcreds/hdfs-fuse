@@ -4,6 +4,8 @@ attributes, permission and symlink should already be supported:
 - https://issues.apache.org/jira/browse/HDFS-245
 
 
+- or just use NFS gateway: https://hadoop.apache.org/docs/r3.0.3/hadoop-project-dist/hadoop-hdfs/HdfsNfsGateway.html
+
 ============
 HDFS-FUSE
 ============
